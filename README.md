@@ -1,6 +1,6 @@
 ## CPPFinanceML
 
-CPPFINanceML is a personal project that implements fundamental machine learning algorithms from scratch in C++ for financial prediction. The project includes implementations of Linear Regression, Support Vector Machines (SVM), and Neural Networks. The goal is to provide a comprehensive understanding of these algorithms by building them from the ground up, without relying on external libraries.
+CPPFinanceML is a personal project that implements fundamental machine learning algorithms from scratch in C++ for financial prediction. The project includes implementations of Linear Regression, Support Vector Machines (SVM), and Neural Networks. The goal is to provide a comprehensive understanding of these algorithms by building them from the ground up, without relying on external libraries.
 
 ### Features
 - **Linear Regression:** Implementation of simple and multiple linear regression models.
