@@ -99,4 +99,5 @@ int main() {
     std::cout << "R^2 = " << R2 << std::endl;
 
     return 0;
+
 }

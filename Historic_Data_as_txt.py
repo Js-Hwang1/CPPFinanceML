@@ -21,3 +21,5 @@ def save_data_as_custom_txt(ticker, start_date, end_date, filename):
 
 if __name__ == "__main__":
     save_data_as_custom_txt('^NDX', '2010-01-01', '2024-01-01', 'stock_data.txt')
+
+
